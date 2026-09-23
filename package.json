@@ -1,0 +1,21 @@
+{
+  "name": "solar-customer-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Android wrapper (Capacitor) for the solar marketplace website",
+  "scripts": {
+    "configure": "node scripts/configure.js",
+    "sync": "node scripts/configure.js && npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/filesystem": "^8.1.3",
+    "@capacitor/share": "^8.0.2",
+    "@capacitor/status-bar": "^8.0.3"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.5.2"
+  }
+}
