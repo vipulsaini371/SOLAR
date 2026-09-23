@@ -1,1 +1,49 @@
 
+{
+  "project_info": {
+    "project_number": "790537324061",
+    "project_id": "planning-with-ai-20d41",
+    "storage_bucket": "planning-with-ai-20d41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790537324061:android:40b88c64ca47d8fc19a8f4",
+        "android_client_info": {
+          "package_name": "com.aistudio.suryasolar.wzknvd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi83F8akU9BLKasgxK5HGytdtY_MjAzg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790537324061:android:7996f6a1ee0cbc8a19a8f4",
+        "android_client_info": {
+          "package_name": "com.solaraapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi83F8akU9BLKasgxK5HGytdtY_MjAzg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
